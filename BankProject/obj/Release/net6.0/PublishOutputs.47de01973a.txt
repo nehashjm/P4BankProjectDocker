@@ -1,0 +1,7 @@
+D:\mphasis Simplilearn\Phase3\Projects\BankProject\BankProject\obj\Release\net6.0\PubTmp\Out\BankProject.exe
+D:\mphasis Simplilearn\Phase3\Projects\BankProject\BankProject\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\mphasis Simplilearn\Phase3\Projects\BankProject\BankProject\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\mphasis Simplilearn\Phase3\Projects\BankProject\BankProject\obj\Release\net6.0\PubTmp\Out\BankProject.dll
+D:\mphasis Simplilearn\Phase3\Projects\BankProject\BankProject\obj\Release\net6.0\PubTmp\Out\BankProject.deps.json
+D:\mphasis Simplilearn\Phase3\Projects\BankProject\BankProject\obj\Release\net6.0\PubTmp\Out\BankProject.runtimeconfig.json
+D:\mphasis Simplilearn\Phase3\Projects\BankProject\BankProject\obj\Release\net6.0\PubTmp\Out\BankProject.pdb

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "529oaT0+VXJYhhG5ZgvKbeKkgkO4aMKFyH4ic9taZfx/iF5+9yGnEbfQ7kBpRdkOfx20Lsej9NTo5KH/AN1dYQ==",
+  "success": true,
+  "projectFilePath": "D:\\mphasis Simplilearn\\Phase3\\Projects\\BankProject\\BankProject\\BankProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nehash\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.4\\microsoft.visualstudio.azure.containers.tools.targets.1.19.4.nupkg.sha512"
+  ],
+  "logs": []
+}
